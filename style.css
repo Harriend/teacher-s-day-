@@ -1,0 +1,33 @@
+body{
+text-align: center;
+background-color: darkturquoise;
+}
+
+h1{
+font-family: indie-flower, sans-serif;
+font-weight: 400;
+font-size:60px;
+}
+
+.teacherintro{
+font-family: indie-flower, sans-serif;
+font-weight: 400;
+font-size:40px;
+}
+
+.abtteacher{
+font-family: indie-flower, sans-serif;
+font-weight: 400;
+font-size: 25px;
+color: white;
+}
+
+.intro{
+font-size: 25px;
+font-family: indie-flower, sans-serif;
+font-weight: 400;
+}
+
+.img{
+border-radius: 80px;
+}
